@@ -1,6 +1,6 @@
 {
   "name": "js-queryparams",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A JavaScript library to retrieve the query parameters with cross browser compatibility.",
   "main": "index.js",
   "keywords": [
