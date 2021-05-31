@@ -1,0 +1,22 @@
+{
+  "name": "js-queryparams",
+  "version": "3.0.0",
+  "description": "A JavaScript library to retrieve the query parameters with cross browser compatibility.",
+  "main": "index.js",
+  "keywords": [
+    "queryparams",
+    "queryparameters",
+    "js-queryparams",
+    "query",
+    "params",
+    "parameters",
+    "query parameters",
+    "query params"
+  ],
+  "author": "K.C.Ashish Kumar",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/npx-bin/js-queryparams.git",
+    "type": "GIT"
+  }
+}
